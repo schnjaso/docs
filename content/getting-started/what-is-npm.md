@@ -7,8 +7,7 @@ featured: true
 
 <p>npm makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you&#39;re sharing.</p>
 
-<iframe width="670" height="480" src="https://www.youtube.com/embed/x03fjb2VlGY" frameborder="0" allowfullscreen></iframe>
-
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmodernwizardquarterly%2Fposts%2F1847401438619292%3A0&width=500" width="500" height="158" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
  <p>If you've been working with JavaScript for a while, you might have heard of npm: npm makes it easy for JavaScript developers to share the code that they've created to solve particular problems, and for other developers to reuse that code in their own applications.</p>
  
  <p>Once you're depending on this code from other developers, npm makes it really easy to check to see if they've made any updates to it, and to download those updates when they're made.</p>
